@@ -20,6 +20,7 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@200;300;400;500;600&display=swap');
 * {
     /* border: 1px solid red; */
 }
